@@ -2,7 +2,6 @@ import 'package:authentication/screens/signup_page.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
 import '../services/auth_service_email_password_google.dart';
 import 'signup_page.dart';
 
